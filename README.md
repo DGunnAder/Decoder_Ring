@@ -1,2 +1,3 @@
 # Decoder_Ring
 Thinkful Decoder ring project
+I was able to practice writing complex algorithms and tests with Mocha and Chai. This application allows the user to encode and decode messages using either the polybius square, caesar shift, or substitution cipher. The caesar shift shifts all characters of a message to specified number of characters to the right, if a positive shift value is given, or the the left, if a negative shift value is given. The polybius square translates characters into a number respresentative of a position in a two dimensional array known as a polybius square. At the end, the substitution cipher exchanges letters in the alphabet with a different alphabet provided by the user to create an encoded or decoded message. It is a lot of fun to use. 
